@@ -1,5 +1,4 @@
-// Labb2_orebro_sommar23.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
+// The implementation of Merge Sort Algorithm in C++
 
 #include <iostream>
 #include <ctime>
