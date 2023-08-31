@@ -1,4 +1,4 @@
-// anteckninar1_orebro_23.cpp : This file contains the 'main' function. Program execution begins and ends there.
+// Implementation of a single list in C++
 
 #include <iostream>
 using namespace std;
